@@ -34,4 +34,6 @@ This list is in no particular order.
 * Jon Gold https://jon.gold/ (P, W) (his old site was incredibe)
 * Jack Schaedler https://jackschaedler.github.io/ (P, W)
 * James Somers https://jsomers.net/ (W, P)
+* Gene Kogan http://genekogan.com/ (P)
+* Golan Levin http://www.flong.com/ (P, W)
 * Jarrett Fuller http://jarrettfuller.com/ (D, S)
