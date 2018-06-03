@@ -28,6 +28,7 @@ Tracking people with personal sites I like
 * Gwern Branwen http://www.gwern.net/ (W)
 * Michael Fogleman https://www.michaelfogleman.com/ (P)
 * Daniel Goddemeyer http://danielgoddemeyer.com/ (D, P, S)
+* Craig Mod https://craigmod.com/ (W)
 * Jon Gold https://jon.gold/ (P, W) (his old site was incredibe)
 * Jack Schaedler https://jackschaedler.github.io/ (P, W)
 * James Somers https://jsomers.net/ (W, P)
