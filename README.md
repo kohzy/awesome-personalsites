@@ -1,5 +1,7 @@
 # awesome-personalsites
-Tracking people with personal sites I like
+Tracking people with personal sites I like.
+
+This list is in no particular order.
 
 ## Legend
 - P = projects and prototypes
