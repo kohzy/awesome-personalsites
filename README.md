@@ -22,6 +22,7 @@ Tracking people with personal sites I like
 * Jinha Lee http://leejinha.com/home.html (D, P)
 * Tim Hwang http://timhwang.org/ (W)
 * Francis Tseng http://frnsys.com/ (D, P)
+* Michael Nielsen http://michaelnielsen.org/ (P, W)
 * Richard The http://www.richardthe.com/ (D, P)
 * Gwern Branwen http://www.gwern.net/ (W)
 * Michael Fogleman https://www.michaelfogleman.com/ (P)
