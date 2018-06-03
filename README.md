@@ -2,9 +2,9 @@
 Tracking people with personal sites I like
 
 ## Legend
-P = prototypes, built projects
-W = writing, talks, general knowledge
-D = design (design of site itself or design projects)
+- P = prototypes, built projects
+- W = writing, talks, general knowledge
+- D = design (design of site itself or design projects)
 
 ## The Essentials
 * Bret Victor http://worrydream.com/ (D, P, W)
