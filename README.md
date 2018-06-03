@@ -24,6 +24,7 @@ Tracking people with personal sites I like
 * Francis Tseng http://frnsys.com/ (D, P)
 * Michael Nielsen http://michaelnielsen.org/ (P, W)
 * Richard The http://www.richardthe.com/ (D, P)
+* Chris Olah https://colah.github.io/ (P, W)
 * Gwern Branwen http://www.gwern.net/ (W)
 * Michael Fogleman https://www.michaelfogleman.com/ (P)
 * Daniel Goddemeyer http://danielgoddemeyer.com/ (D, P)
