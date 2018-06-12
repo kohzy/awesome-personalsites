@@ -32,6 +32,7 @@ This list is in no particular order.
 * Michael Fogleman https://www.michaelfogleman.com/ (P)
 * Daniel Goddemeyer http://danielgoddemeyer.com/ (D, P, S)
 * Craig Mod https://craigmod.com/ (W)
+* Jonathan Corum http://13pt.com/ (W, P)
 * Jon Gold https://jon.gold/ (P, W) (his old site was incredibe)
 * Jack Schaedler https://jackschaedler.github.io/ (P, W)
 * James Somers https://jsomers.net/ (W, P)
