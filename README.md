@@ -25,6 +25,7 @@ This list is in no particular order.
 * Jinha Lee http://leejinha.com/home.html (D, P)
 * Tim Hwang http://timhwang.org/ (W)
 * Francis Tseng http://frnsys.com/ (D, P)
+* Rose Eveleth http://www.roseveleth.com/ (W)
 * Michael Nielsen http://michaelnielsen.org/ (P, W)
 * Richard The http://www.richardthe.com/ (D, P)
 * Chris Olah https://colah.github.io/ (P, W)
