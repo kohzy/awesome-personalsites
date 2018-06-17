@@ -16,6 +16,7 @@ This list is in no particular order.
 
 ## More
 * Darius Kazemi http://tinysubversions.com/ (P, W)
+* Mike Matas http://www.mikematas.com/ (D, P)
 * Mike Bostock https://bost.ocks.org/mike/ (P, W)
 * Nicky Case http://ncase.me/ (P, W)
 * Steven Wittens http://acko.net/ (D, P, W, S)
