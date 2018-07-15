@@ -31,6 +31,7 @@ This list is in no particular order.
 * Michael Karpeles https://michaelkarpeles.com/ (P, W)
 * Richard The http://www.richardthe.com/ (D, P)
 * Justin O'Beirne https://www.justinobeirne.com/ (D, W)
+* James Bridle http://jamesbridle.com/ (P, W)
 * Chris Olah https://colah.github.io/ (P, W)
 * Gwern Branwen http://www.gwern.net/ (W)
 * Michael Fogleman https://www.michaelfogleman.com/ (P)
