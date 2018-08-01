@@ -22,6 +22,7 @@ This list is in no particular order.
 * Steven Wittens http://acko.net/ (D, P, W, S)
 * Marcin Wichary https://aresluna.org/ (D, W)
 * Sam Lavigne http://lav.io/ (D, P)
+* Jen Lu http://jen.lu/ (D, P)
 * Nicole Fenton www.nicolefenton.com (W, S)
 * Jinha Lee http://leejinha.com/home.html (D, P)
 * Tim Hwang http://timhwang.org/ (W)
