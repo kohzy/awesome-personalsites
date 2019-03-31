@@ -15,7 +15,7 @@ This list is in no particular order.
 * piero scaruffi http://scaruffi.com/ (W)
 
 ## More
-* Devin L https://wiki.xxiivv.com/#home (D, P, S)
+* Devine Lu Linvega https://wiki.xxiivv.com/#home (D, P, S)
 * Darius Kazemi http://tinysubversions.com/ (P, W)
 * Mike Matas http://www.mikematas.com/ (D, P)
 * Mike Bostock https://bost.ocks.org/mike/ (P, W)
