@@ -47,3 +47,4 @@ This list is in no particular order.
 * Gene Kogan http://genekogan.com/ (P)
 * Golan Levin http://www.flong.com/ (P, W)
 * Jarrett Fuller http://jarrettfuller.com/ (D, S)
+* Zach Gage http://stfj.net/ (P, W)
